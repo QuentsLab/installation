@@ -40,6 +40,8 @@ Quents is designed to support virtually all Linux environments, architectures, a
 * MX Linux
 * Deepin
 * NixOS
+* Termux on android
+* @all Linux devices support, all architectures support
 
 ### Architectures
 
