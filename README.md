@@ -16,6 +16,10 @@ A lightweight containerization platform and Docker alternative built for Linux e
 
 ## Supported Distributions
 
+Quents is designed to support virtually all Linux environments, architectures, and device classes through a universal runtime layer.
+
+### Officially Supported
+
 * Ubuntu
 * Debian
 * Kali Linux
@@ -23,6 +27,67 @@ A lightweight containerization platform and Docker alternative built for Linux e
 * Arch Linux
 * Fedora
 * Rocky Linux
+* CentOS
+* Oracle Linux
+* openSUSE
+* Gentoo
+* Void Linux
+* Linux Mint
+* Manjaro
+* Pop!_OS
+* Elementary OS
+* Zorin OS
+* MX Linux
+* Deepin
+* NixOS
+
+### Architectures
+
+* x86
+* x86_64 (AMD64)
+* ARM
+* ARM64 (AArch64)
+* RISC-V
+* PowerPC
+* IBM Z
+* LoongArch
+
+### Device Support
+
+* Physical Servers
+* Virtual Private Servers (VPS)
+* Dedicated Servers
+* Cloud Instances
+* Desktop Systems
+* Laptops
+* Embedded Systems
+* IoT Devices
+* Single Board Computers
+* Workstations
+* Development Environments
+* Enterprise Infrastructure
+
+### Universal Compatibility
+
+Quents aims to provide a universal Linux environment capable of running across nearly any Linux distribution, architecture, virtualization platform, cloud provider, container host, edge device, or custom infrastructure deployment.
+
+### Deployment Targets
+
+* Bare Metal
+* KVM
+* QEMU
+* Xen
+* Hyper-V
+* VMware
+* Proxmox VE
+* OpenStack
+* Private Cloud
+* Public Cloud
+* Hybrid Cloud
+* Edge Infrastructure
+
+> Build once. Run anywhere Linux runs.
+
 
 ## Installation
 
